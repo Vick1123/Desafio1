@@ -1,0 +1,49 @@
+.Negrito{
+    font-weight: bold;
+    text-align: center;
+    background-color: #616BFF;
+    font-size: 20px;
+color:white;
+}
+
+.Alinhamento{
+    text-align: center;
+}
+
+.body {
+    font-family: Arial, sans-serif;
+  }
+  .Lorem-alinhamento{
+    text-align:justify ;
+    margin: 80px;
+    background-color: #ADB3FF;
+  }
+.Padding{
+    font-weight: bold;
+    text-align: center;
+    background-color: #616BFF;
+    font-size:20px;
+    color: white;
+
+  }
+
+.texto-2-alinhamento{
+padding: 80px;
+background-color:#ADB3FF;
+text-align: justify;
+
+}
+
+.texto-3{
+    border: 20px;
+    border-color:#ADB3FF ;
+    border-style: solid;
+    text-align: left;
+    margin-top: 40px;
+    margin-right: 60px
+    margin-bottom: 40px;
+
+
+    
+
+}

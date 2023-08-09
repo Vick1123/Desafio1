@@ -39,11 +39,38 @@ text-align: justify;
     border-color:#ADB3FF ;
     border-style: solid;
     text-align: left;
-    margin-top: 40px;
-    margin-right: 60px
-    margin-bottom: 40px;
+    margin-top: 4px;
+    margin-right: 6px
+   
 
-
-    
 
 }
+
+.separação{
+  
+    border-bottom: 1px solid #ADB3FF; /* Estilo da linha */
+    margin: 20px 0; /* Espaçamento entre seções */
+}
+
+.section{
+  text-align: center;
+  border: 6px; 
+  margin: 6px;
+  color:purple ;
+  position: relative;
+  transition: color 0.3s; /* Transição da cor da letra */
+}
+  
+
+.section:hover{
+color: blue;
+}
+
+/* Remove o sublinhado de todos os links */
+a {
+  text-decoration: none;
+}
+
+
+
+
